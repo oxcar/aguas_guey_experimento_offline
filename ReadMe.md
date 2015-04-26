@@ -29,6 +29,8 @@ Todos los datos usados para la visualización se han obtenido de fuentes publica
 
 La interacción del usuario con la instalación se realiza mediante el uso de un controlador que captura los gestos del usuario y los transforma en comandos. Después de investigar otras maneras de interacción nos decidimos por el uso de un controlador [Myo](https://www.thalmic.com/en/myo/). 
 
+![image](docs/images/sketch_aguas_offline.jpg)
+
 Incluimos aquí un par de vídeos sobre esta tecnología:
 
 [Apple Maps Controlled By the Myo (Thalmic Labs)](https://www.youtube.com/watch?v=bhihb6_LsEs)
@@ -55,9 +57,9 @@ El controlador Myo dispone de un SDK con el cual es muy facil leer los gestos y 
 
 ### Equipo
 
-David Hernandez - Diseño Información y UX
-
 Gabriel García Plata - Analisis de Datos
+
+David Hernandez - Diseño Información y UX
 
 Oscar Hernandez - Programación
 
