@@ -49,13 +49,13 @@ Incluimos aquí un par de vídeos sobre esta tecnología:
 
 El controlador Myo dispone de un SDK con el cual es muy facil leer los gestos y trasladarlos a comandos en la aplicación.
 
-![image](docs/images/myo/solid_grey_LH_double_tap@2x.png)
-![image](docs/images/myo/solid_grey_LH_fist@2x.png)
-![image](docs/images/myo/solid_grey_LH_spread_fingers@2x.png)
-![image](docs/images/myo/solid_grey_LH_wave_left@2x.png)
-![image](docs/images/myo/solid_grey_LH_wave_right@2x.png)
-![image](docs/images/myo/solid_grey_pan@2x.png)
-![image](docs/images/myo/solid_grey_rotate@2x.png)
+![image](docs/images/myo/solid_grey_LH_double_tap.png)
+![image](docs/images/myo/solid_grey_LH_fist.png)
+![image](docs/images/myo/solid_grey_LH_spread_fingers.png)
+![image](docs/images/myo/solid_grey_LH_wave_left.png)
+![image](docs/images/myo/solid_grey_LH_wave_right.png)
+![image](docs/images/myo/solid_grey_pan.png)
+![image](docs/images/myo/solid_grey_rotate.png)
 
 ### Tecnología
 
@@ -77,7 +77,7 @@ Irvin Morales - Cientifico de Datos
 
 ### Presupuesto insumos
 
-* Dos bandas Myo $US 460 ($200 USD de cada una más $US 60 de envío)
+* Dos bandas Myo $460 USD ($200 USD de cada una más $60 USD de envío)
 * Proyector de 2000 lúmenes, para proyectar en áreas públicas. Estimado de $533 USD ($8,000 MXN)
 
 
