@@ -4,6 +4,16 @@ La plataforma online **¡Aguas Güey!** nace para intentar facilitar el aprendiz
 
 En este experimento *Offline* se pretende llevar a un espacio físico la experiencia de la plataforma *Online*.
 
+### Objetivos
+
+* Transparencia: Facilitar el acceso a la información, concientizar a la gente de cómo están las condiciones de agua en su colonia relativo al resto de la ciudad en términos de cinco indicadores: acceso a agua potable y drenaje, escasez de agua, inundaciones, drenajes expuestos y basureros clandestinos. Esto es importante puesto que dicha información es muy difícil de encontrar y comprender cuando se trata en términos absolutos. La dinámica que hemos construido de ofrecer datos relativos y no absolutos permite a la gente dimensionar de mejor manera la situación del agua en su colonia para poder exigir un mejor servicio.  
+
+* Rendición de cuentas: Al hacer más accesible la información respecto a las condiciones de agua en su colonia, también le damos la capacidad  de exigir un mejor a su gobierno que mejoren las condiciones que más problemas tienen en su colonia. En el espacio de la visualización ofreceremos información de cómo contactar a sus jefes delegacionales y a las autoridades competentes para realizar dichas solicitudes de mejoras. Además, los invitaremos a usar nuestro sitio donde podrán hacer reportes de problemas específicos que podrían enfrentar en sus hogares  y agregar un reporte a nuestra base, donde mediante la acción colectiva generaremos presión social para motivar al gobierno a darle prioridad a colonias con problemas recurrentes.  
+
+* Iniciar a explorar el uso de herramientas lúdicas para hacer la visualización de mapas más divertida e interesante. En particular, nos interesa experimentar con la tecnología que haga más entretenido y atractivo para las personas acercarse e interactuar.
+
+* Mejorar la difusión del sitio online que contiene más funcionalidades como la capacidad de reportar diferentes problemas de agua en la ciudad de manera individual y a su vez de manera colectiva, pues agregaremos todos los resultados por colonia para poner presión a gobierno para actuar en  las colonias con más problemas.  
+
 
 ### Información
 
@@ -66,6 +76,10 @@ Oscar Hernandez - Programación
 Irvin Morales - Cientifico de Datos
 
 ### Presupuesto insumos
+
+* Dos bandas Myo $US 460 ($200 USD de cada una más $US 60 de envío)
+* Proyector de 2000 lúmenes, para proyectar en áreas públicas. Estimado de $533 USD ($8,000 MXN)
+
 
 
 
