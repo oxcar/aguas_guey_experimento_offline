@@ -67,13 +67,15 @@ El controlador Myo dispone de un SDK con el cual es muy facil leer los gestos y 
 
 ### Equipo
 
+Karen Cota - Investigación
+
+Susana Zavala - Investigación 
+
 Gabriel García Plata - Analisis de Datos
 
 David Hernandez - Diseño Información y UX
 
 Oscar Hernandez - Programación
-
-Irvin Morales - Cientifico de Datos
 
 ### Presupuesto insumos
 
